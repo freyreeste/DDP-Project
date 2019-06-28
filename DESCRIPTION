@@ -1,0 +1,13 @@
+Package: DDPFreyreERProyw4
+Type: Package
+Title: AlgoSky. The Shiny app provides a board to show data from mtcars series.  
+Version: 1.0
+Author: Esteban R. Freyre
+Maintainer: Esteban R. Freyre <esteban.r.freyre@gmail.com>
+Description: There is a sidebar panel for graphics controls with a slider. There you can switch between prediction models tab and an interactive table with reactive graphic according to table rows and car model.    The app board is responsive in the menu so you can see the graphics bigger. You can also retrace the graphic title and so on
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL 3.0
+Encoding: UTF-8
+LazyData: true
+Depends: 'Shiny', 'shinydashboard', 'DT' and 'dataseries'
+Date: 2019-Jun-27
